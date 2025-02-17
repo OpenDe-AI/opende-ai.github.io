@@ -3,5 +3,5 @@ OpenDeAI: Decentralized AI for the Future 🚀  Open-source, censorship-resistan
 
 ## 📜 OpenDeAI Whitepaper  
 Read the latest whitepaper here:  
-📄 [PDF Version](https://github.com/OpenDeAI/OpenDeAI/blob/main/docs/OpenDeAI_Whitepaper_v1.0.pdf)  
-📜 [Markdown Version](https://github.com/OpenDeAI/OpenDeAI/blob/main/docs/OpenDeAI_Whitepaper_v1.0.md)  
+📄 [PDF Version](https://github.com/OpenDe-AI/opende-ai.github.io/blob/main/docs/OpenDeAI%20Whitepaper%20v1.0.pdf) 
+📜 [Markdown Version](https://github.com/OpenDe-AI/opende-ai.github.io/blob/main/docs/OpenDeAI%20Whitepaper%20v1.0.md)
